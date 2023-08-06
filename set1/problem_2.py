@@ -1,0 +1,13 @@
+a=24
+b=3.14
+name='Asim'
+Developer=True
+list=["mango","orange",1,2]
+tuple=(1,2,3,"hello")
+person={
+  'firstName':"Mohd",
+  'lastName':"Asim",
+  'address':"Prayagraj"
+}
+value={1,2,3,4,5}
+print(type(a),type(b),type(name),type(Developer),type(list),type(tuple),type(person),type(value))
